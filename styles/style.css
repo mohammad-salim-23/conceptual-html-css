@@ -32,9 +32,9 @@ font-family: 'Lato', sans-serif;
 }
 .EM{
     font-size: 2em;
-    background-color: yellowgreen;
+    background-color: yellow;
     display:inline-block;
-    width: 700px;
-    height: 100px;
+    
+    height: 200px;
 
 }
