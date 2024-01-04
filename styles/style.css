@@ -1,3 +1,40 @@
-h1{
-    color:aquamarine;
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+*{
+margin:0px;
+
+font-family: 'Lato', sans-serif;
+}
+.hero{
+    background-image:url('../image/horse1.jpg');
+    height: 100vh; 
+    
+  text-align: center;
+    font-size: cover; 
+    background-repeat: no-repeat;
+    background-position: bottom center;
+   
+    
+}
+.hero h1{
+    color: orangered;
+     padding-top:20px; 
+    font-family: cursive;
+     word-spacing: 10px;
+     letter-spacing: 5px;
+}
+.article{
+    margin-left: 10px 40px 5px; 
+    background-color: aquamarine;
+    padding: 10px;
+     border:20px solid aqua ; 
+    
+
+}
+.EM{
+    font-size: 2em;
+    background-color: yellowgreen;
+    display:inline-block;
+    width: 700px;
+    height: 100px;
+
 }
