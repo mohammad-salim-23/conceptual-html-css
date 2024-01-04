@@ -22,19 +22,19 @@ font-family: 'Lato', sans-serif;
      word-spacing: 10px;
      letter-spacing: 5px;
 }
-.article{
+.article,#Variety-Horse{
     margin-left: 10px 40px 5px; 
     background-color: aquamarine;
     padding: 10px;
-     border:20px solid aqua ; 
+     border:20px solid orangered; 
     
 
 }
 .EM{
-    font-size: 2em;
+    font-size: 1em;
     background-color: yellow;
     display:inline-block;
     
-    height: 200px;
+    
 
 }
